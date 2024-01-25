@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // arrow function
+        /*
+        syntax
+        let result = () => task.
+        */
+        let result = (x,y) => x+y
+        // console.log(result(2,3))
+
+        // conditional arrow function
+        let age = 5
+        // let welcome = (age < 18 ) ? () => console.log('Baby') : () => console.log('Adult')
+        
+        // welcome()
+        
+        // arrow default params
+        // let welcome = (age < 18 ) ? (x=10, y=20) => console.log(x+y) : (x=10, y=20) => console.log(x-y)
+        let welcome = (x=10, y=20) => console.log(x+y)
+        welcome()
+
+    </script>
+</body>
+</html>

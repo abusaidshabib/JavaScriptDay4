@@ -1,0 +1,12 @@
+HTML, CSS, JavaScript (basic)
+React js (Next Js), Vue js, Angular Js.
+Packages(npm, Yarn, version)
+JavaScript Advance Concept(OOP, Asynchronous, MOdules, Exceptions)
+(state management package React-redux>Redux tool, Next js, vue js)
+
+Typescript, Session handling, Localstorage, Cookies, Security, Jest
+(Ajax, Jquery, CDN integration)
+
+Webpack, Babel
+
+figma, Adobe XD, Illustrator.

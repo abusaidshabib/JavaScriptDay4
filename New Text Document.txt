@@ -1,0 +1,9 @@
+Complete Programming language.
+DSA and Algorithm will be beneficial.
+JavaScript (node js> Express js> prisma), Python (Django), Java (Spring boot), C# (.net), PHP (laravel), Rust.
+Sql, no sql database
+
+GraphQL, Web servers: Nginx, apache,
+Microservices Architecture, Caching, security, CI/CD,Scalability, Cloud Services.
+
+Socet.io, Machine learing integration.

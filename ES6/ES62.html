@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const newTime = new Date()
+        console.log(newTime.toISOString())
+        const name = 'Hero Imran Vai'
+        const number = 2;
+        // if(number < 2){
+        //     console
+        // }
+        // console.log(`Hello ${name}. Kemon acen?`)
+        // console.log(`Hello ${number > 2 ? name:"kisu na"}. Kemon acen?`)
+
+        // Array
+        const array1 = ['one', 'two']
+        const array2 = ['three', 'four', ...array1]
+        const arrayObject = [
+    {
+        name: 'thetimes',
+        address: 'https://www.thetimes.co.uk/environment/climate-change'
+    },
+    {
+        name: 'gaurdian',
+        address: 'https://www.theguardian.com/environment/climate-crisis'
+    },
+    {
+        name: 'telegraph',
+        address: 'https://www.telegraph.co.uk/climate-change'
+    }
+]
+        // const array3 = [...array1, ...array2]
+
+        // console.log(array2)
+        // arrayObject.map((value)=>(console.log(value.name,  value.address)))
+
+        const numbers = [1,2,3,4,5,6,7,8]
+
+        let newResult = numbers.filter((value)=>value<5)
+
+        // console.log(newResult)
+
+        for (let value of array2){
+            // console.log(value)
+        }
+
+        for(let word of name){
+            // console.log(word)
+        }
+    </script>
+</body>
+</html>
